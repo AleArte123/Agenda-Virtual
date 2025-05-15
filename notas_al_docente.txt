@@ -1,0 +1,15 @@
+A quien corresponda:
+Buenas dias/tardes/noches profesor@, aquí le presento
+este programa que lleva por nombre "Agenda Digital"
+como no se nos especifico más que "realizar un módulo
+de carga, que se pueda ingresar,modificar y eliminar
+un registro desde la interfaz gráfica de python y 
+con una base de datos SQL" la mejor idea que tuve 
+para cumplir con esas caracteristicas fue esta agenda,
+en el archivo "proyecto_estructura.txt" se muestra cual
+fue la idea de la que surgió el codigo que aquí se muestra.
+
+Al principio se organizó por carpetas, sub carpetas y archivos
+independientes como "gui.py"(interfaz grafica), "db.py" (base de datos)
+etc, pero como no funcionaron las importanciones entre módulos
+dicidí dejarlo en un solo archivo (main.py).
