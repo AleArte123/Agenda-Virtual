@@ -1,0 +1,19 @@
+Proyecto: Agenda digital
+
+Idea principal: Agenda virtual que permita guardar contactos,
+ya sea por; nombre, teléfono, correo, también permitirá
+agregar pequeñas notas y permitirá editar cada contacto y nota.
+
+Funcionalidades:
+
+Agregar contacto: Nombre, teléfono, correo electrónico.
+Agregar nota: Título, contenido.
+Eliminar contacto/nota.
+
+Estructura del proyecto
+Base de datos sqlite3
+Interfaz gráfica (TKinter):
+Pestañas: Utilizar tkinter.ttk.Notebook para crear pestañas para "Contactos" y "Notas".
+Formularios: Crear formularios sencillos con campos de entrada y botones para agregar, buscar y eliminar.
+
+Creado por: Andrés Martínez 
